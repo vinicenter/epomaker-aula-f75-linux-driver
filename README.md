@@ -145,6 +145,10 @@ The script will:
   - **Wired keyboard**: "BY Tech Gaming Keyboard"
   - **Wireless**: "Compx 2.4G Wireless Receiver"
 
+## Acknowledgments
+
+Special thanks to the [r/mkindia community](https://www.reddit.com/r/mkindia/comments/1r4olqm/finally_aula_f75_software_working_for_linux/) for the original inspiration and discussion that led to this repository.
+
 ## Legal & Licensing
 
 - This repository contains **only the setup scripts and udev configuration guidance**.
